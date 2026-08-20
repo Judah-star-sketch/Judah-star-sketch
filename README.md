@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Judah%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Technology%20Enthusiast%20%7C%20Creative%20Builder&descAlignY=55&descSize=18&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Judah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20Dev%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Judah!;Developer+%7C+Creative+Builder;Turning+Ideas+Into+Useful+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Judah!;Web+Dev+%7C+AI+%7C+Emerging+Technologies;I+turn+ideas+into+real+working+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,18 +30,21 @@
 
 <td width="65%" valign="middle">
 
-### 🚀 Building Ideas Into Digital Experiences
+### 🚀 Turning Ideas into Intelligent Solutions
 
-- 💻 Exploring **software development and modern technology**
-- 🧠 Interested in **creative problem-solving and practical applications**
-- 🚀 Building and experimenting with projects through hands-on development
-- 🛠️ Learning new technologies and improving development skills
-- 🌱 Constantly exploring new ideas, tools, and programming concepts
-- ✨ Passionate about turning simple ideas into useful digital solutions
+- 🎓 B.E. Computer Science Engineering (AI & ML) student passionate about building impactful AI-driven solutions
+
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, Robotics, and Full-Stack Development**
+
+- 💡 Turning innovative ideas into real-world applications—from intelligent automation to interactive web experiences
+
+- 🛠️ Working with **Python, OpenCV, YOLO, MediaPipe, TensorFlow, React, JavaScript, HTML, CSS, Git, and modern development tools**
+
+- 🌱 Constantly learning, experimenting, and creating projects that solve meaningful problems
 
 <br/>
 
-> 💙 *"Create. Learn. Build. Improve."*
+> 💙 *"Code with purpose. Build with passion. Innovate for tomorrow."*
 
 </td>
 
@@ -53,12 +56,10 @@
 
 ---
 
-## 👋 Welcome to My Profile
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <p align="center">
-  <a href="#">
-    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello%2C+World+%F0%9F%91%8B;Welcome+to+Judah's+Profile+%F0%9F%92%BB;Thanks+for+Visiting!+%F0%9F%98%8A;Feel+Free+to+Explore+%F0%9F%9A%80">
-  </a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
 </p>
 
 <p align="center">
@@ -71,12 +72,12 @@
 
 ### ✨💫 About Me 💫✨
 
-- 👨‍💻 **Developer and technology enthusiast**
-- 💡 Enjoy exploring **new ideas and digital solutions**
-- 🚀 Interested in building **useful and creative projects**
-- 🧠 Focused on **learning through practical development**
-- 🌱 Continuously exploring **new technologies and programming concepts**
-- ⚡ Believe that every project is an opportunity to learn something new
+- 🔭 **Aspiring Software Engineer** with a passion for technology
+- 💻 Interested in **Web Development, AI, and Emerging Technologies**
+- 🤖 Enjoy building projects that combine **creativity and problem-solving**
+- 🌱 Currently expanding my knowledge in **programming and software design**
+- 📚 Constantly **learning and exploring** new tools and frameworks
+- ⚡ Fun fact: I believe every project is an opportunity to learn something new 
 
 <br clear="right"/>
 
@@ -87,8 +88,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judah-s-37865536b/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Judah-star-sketch)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ebinezerebv)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/EbinezerEbinezer)
 
 </div>
 
@@ -98,9 +100,9 @@
 
 <div align="center">
 
-| 💻 Development | 🧠 Problem Solving | 🚀 Projects | 🎨 Creativity |
+| 🤖 AI Applications | 🎨 UI/UX Design | ⚙️ Automation | 🔌 Hardware |
 |:---:|:---:|:---:|:---:|
-| Building digital projects | Exploring solutions | Turning ideas into projects | Creating useful experiences |
+| Python-powered AI tools | Clean, modern interfaces | Smart workflows with n8n | Arduino & Raspberry Pi & ESP 32|
 
 </div>
 
@@ -108,87 +110,134 @@
 
 ## 🧠 Tech Stack
 
-### 👨‍💻 Programming & Development
-
+### 👨‍💻 Programming Languages
 <div align="center">
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40"/>
-</a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"/></a>
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40"/></a>
 
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"/>
-</a>
+</div>
 
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40"/>
-</a>
+### 🤖 AI / ML Frameworks
+<div align="center">
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
-</a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="40"/></a>
+<a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" height="40"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="40"/></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40"/></a>
+<a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" height="40"/></a>
+<a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" height="40"/></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
-</a>
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40"/>
-</a>
+### 🌐 Web & Frameworks
+<div align="center">
+
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="40"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="40"/></a>
+
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center">
+
+<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40"/></a>
+<a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="40"/></a>
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="40"/></a>
+
+</div>
+
+### 🎨 Design & Creative Tools
+<div align="center">
+
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40"/></a>
+<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="40"/></a>
+<a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="40"/></a>
+<a href="https://inkscape.org/" target="_blank"><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" height="40"/></a>
+<a href="https://proto.io/" target="_blank"><img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff" height="40"/></a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" height="40"/></a>
+
+</div>
+
+### 🔌 Hardware & IoT
+<div align="center">
+
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="40"/></a>
+<a href="https://www.raspberrypi.org/" target="_blank"><img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/ESP32" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=arduino&logoColor=white" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"><img src="https://img.shields.io/badge/-Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank"><img src="https://img.shields.io/badge/-IoT-00C853?style=for-the-badge&logo=internetofthings&logoColor=white" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Microcontroller" target="_blank"><img src="https://img.shields.io/badge/-Microcontroller-607D8B?style=for-the-badge&logo=chip&logoColor=white" height="40"/></a>
+<a href="https://www.nvidia.com/" target="_blank"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" height="40"/></a>
+
+</div>
+
+### 🛠️ Tools & Others
+<div align="center">
+
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40"/></a>
+<a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="40"/></a>
+<a href="https://storybook.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="40"/></a>
+<a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" height="40"/></a>
+<a href="https://balsamiq.com/" target="_blank"><img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white" height="40"/></a>
+<a href="https://www.mockplus.com/" target="_blank"><img src="https://img.shields.io/badge/Mockplus-0052CC?style=for-the-badge&logo=mockplus&logoColor=white" height="40"/></a>
+<a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="40"/></a>
+<a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
+<a href="https://groq.com/" target="_blank"><img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" height="40"/></a>
+<a href="https://www.tinkercad.com/" target="_blank"><img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white" height="40"/></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40"/></a>
+<a href="https://wordpress.org/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="40"/></a>
+<a href="https://www.upwork.com/" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="40"/></a>
+<a href="https://chat.openai.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
+<a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.shields.io/badge/Perplexity-1FB6FF?style=for-the-badge" height="40"/></a>
+<a href="https://claude.ai/" target="_blank"><img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" height="40"/></a>
+<a href="https://gemini.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40"/></a>
+<a href="https://scratch.mit.edu/" target="_blank"><img src="https://img.shields.io/badge/Scratch-FF9F1C?style=for-the-badge&logo=scratch&logoColor=white" height="40"/></a>
+<a href="https://creately.com/" target="_blank"><img src="https://img.shields.io/badge/Creately-FF6F00?style=for-the-badge" height="40"/></a>
+<a href="https://codepen.io/" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="40"/></a>
+<a href="https://www.naukri.com/" target="_blank"><img src="https://img.shields.io/badge/Naukri-0054A6?style=for-the-badge" height="40"/></a>
+<a href="https://replit.com/" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" height="40"/></a>
+<a href="https://www.hackerrank.com/" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40"/></a>
 
 </div>
 
 ---
 
-### 🌐 Web Technologies
+<h2 align="center">👀 Profile Views</h2>
 
 <div align="center">
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40"/>
-</a>
-
+  <img src="https://count.getloli.com/@:Judah-star-sketch?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
-
----
-
-### 🛠️ Tools & Platforms
-
-<div align="center">
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/>
-</a>
-
-</div>
-
----
-
-## 🍱 Featured Project
-
-<div align="center">
-
-### 🍿 SnackGenie
-
-<a href="https://github.com/Judah-star-sketch/snackgenie">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-> A project developed and maintained by Judah. Check the repository for the latest implementation, features, and documentation.
 
 ---
 
@@ -196,17 +245,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Judah-star-sketch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Judah-star-sketch&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 🔝 Top Contributed Repos
 
 <div align="center">
 
@@ -216,55 +261,36 @@
 
 ---
 
-## 👨‍💻 GitHub Profile
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/Judah-star-sketch?style=for-the-badge&logo=github&label=Followers)
-
-![GitHub stars](https://img.shields.io/github/stars/Judah-star-sketch?style=for-the-badge&logo=github&label=Stars)
-
-![GitHub User's stars](https://img.shields.io/github/stars/Judah-star-sketch?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
-```text
-📌 Software Development
-📌 Modern Web Technologies
-📌 Programming & Problem Solving
-📌 Building Real-World Projects
-📌 Exploring New Technologies
 ```
+📌 Advanced AI & Deep Learning
+📌 Full Stack Development
+📌 Real-world AI Deployment
+📌 Scalable Systems & Automation
+```
+
+
+---
 
 ## 🤝 Open to Collaborate On
 
 <div align="center">
 
-💻 **Software Projects**
-&nbsp; | &nbsp;
-🚀 **Creative Applications**
-&nbsp; | &nbsp;
-🧠 **Technology Projects**
-&nbsp; | &nbsp;
-🌐 **Web Development**
+🤖 **AI/ML Projects** &nbsp;|&nbsp; 👁️ **Computer Vision Systems** &nbsp;|&nbsp; 🎨 **UI/UX + Dev** &nbsp;|&nbsp; 🔌 **Hardware + Software Integration**
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Snake Animation
 
 <div align="center">
+  
+![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
 
-![Snake Animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-
----
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -272,7 +298,7 @@
 
 ---
 
-### ✍️ Dev Quote
+### ✍️ Dev Quote of the Day
 
 <div align="center">
 
@@ -282,30 +308,23 @@
 
 ---
 
-## ⭐ Thanks for Visiting!
+### 💰 Support My Work
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%A7%A0;Keep+Creating+%E2%9C%A8">
-
-<br/><br/>
-
-<a href="https://github.com/Judah-star-sketch">
-  <img src="https://img.shields.io/badge/Explore%20My%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/judah-s-37865536b/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judah-s-37865536b/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Judah-star-sketch)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ebinezerebv)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/EbinezerEbinezer)
 
 </div>
 
 ---
+
+<div align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffcc00,25:00ff88,50:2afadf,75:7928ca,100:ff0080" width="100%"/>
 
 </div>
-
----
