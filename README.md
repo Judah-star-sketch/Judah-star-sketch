@@ -309,7 +309,3 @@
 </div>
 
 ---
-
-<!-- Judah ID Badge: keep judah-ID.svg in the same root folder as README.md -->
-
-<img src="./judah-ID.svg?v=1" alt="Judah ID Badge" width="300"/>
